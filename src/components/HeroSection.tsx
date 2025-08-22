@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 
-const techStack = ["React", "TypeScript", "CSS", "Next.js", "Figma"];
+const techStack = ["React", "TypeScript", "CSS", "Next.js", "Nodejs"];
 const socialLinks = [
   { name: "GitHub", icon: "🐙", href: "#" },
   { name: "LinkedIn", icon: "💼", href: "#" },
